@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+qrcode
+requests
+pytesseract
+Pillow
+pydantic
+sqlalchemy
+psycopg2-binary
